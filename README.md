@@ -1,1 +1,1 @@
-Computer Networks Assignment - Light Kakaotalk. Simple implementation of socket prgramming.
+Computer Networks Assignment - Light Kakaotalk. Simple implementation of socket programming.
